@@ -1,0 +1,7 @@
+{
+  "name": "ion-react-css",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
